@@ -1,4 +1,4 @@
-# 
+# Affinity Photo for macOS smart Script - content-aware fill and version history offers the most advanced Affinity Photo for macOS script, with content-aware fill and version
 
 
 
